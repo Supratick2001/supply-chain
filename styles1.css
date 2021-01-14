@@ -1,0 +1,180 @@
+/* .......... title section ...... */
+
+#title{
+	background-color:yellowgreen;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	color: #440047;
+	line-height: 1.5;
+	font-size: 3rem;
+}
+.navbar-brand{
+font-family: 'Ubuntu', sans-serif;
+color:red;
+font-weight: 50%;
+font-size: 2rem;
+
+}
+
+.navbar-toggler-icon{
+    color: black;
+}
+
+.nav-link{
+    color:grey;
+    font-weight: bolder;
+}
+
+.container-fluid{
+	padding: 3% 15%;
+}
+.title-image{
+	width: 135%;
+}
+
+/* ...... Feature section.........*/
+
+
+#feature{
+	padding:7% 15%;
+}
+.col-lg-4{
+	text-align: center;
+	margin:10% auto 10% auto;
+}
+.h3{
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 7%;
+	margin-bottom: 1rem;
+}
+
+.feature-box{
+	color: red;
+}
+
+.feature-box:hover{
+	color: #440047;
+}
+.row-font-awesome{
+	text-align: center;
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+.row-font-awesome:hover{
+color: #ff4c68;
+}
+p{
+	color: #8f8f8f;
+}
+
+/* ......... carousel......*/
+
+/*#carousel{
+	background-color:#85ef47;
+	
+}
+
+.container-fluid-carousel{
+	box-sizing: 7% auto 7% auto;
+	
+
+}
+.carousel{
+    height: 300px;
+}
+
+.carousel-item img{
+	position: absolute;
+	object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+/*...... testimonial section.....*/
+
+#testimonials{
+text-align: center;
+background-color: #ef8172;
+color: white;
+display: block;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 10%;
+	text-align: center;
+}
+
+/*.carousel-item{
+	padding: 7% 15%;
+}*/
+
+.testimonial-image{
+	width: 20%;
+	border-radius: 100%;
+	display: inline-block;
+	text-align: center;
+}
+em{
+	display: block;
+	text-align: center;
+	margin-top: 5%;
+}
+
+
+/*........... Press.............*/
+
+#press{
+	background-color: #ef8172;
+	text-align: center;
+	padding-bottom: 3%;
+}
+
+.press-logo{
+	width: 15%;
+	margin: 20px 20px 50px;
+}
+
+
+/*.......... pricing......*/
+
+#pricing{
+	padding: 3% 15%;
+}
+
+.section-heading{
+	margin-top: 5%;
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+
+.card-body{
+	background-color: white;
+}
+
+.card3{
+	width: 74.5%;
+}
+
+#footer{
+	background-color: dimgray;
+	color: floralwhite;
+	text-align: center;
+}
+
+.bottom-text{
+	color: floralwhite;
+}
+
+.m-0{
+	color: floralwhite;
+}
+
+.quick-link{
+	color: floralwhite;
+}
